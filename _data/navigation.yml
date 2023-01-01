@@ -1,10 +1,10 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+  # - title: "Publications"
+  #   url: /publications/
 
-  # - title: "Projects"
-  #   url: /projects/    
+  - title: "Projects"
+    url: /projects/    
   # - title: "Talks"
   #   url: /talks/    
 
@@ -20,5 +20,5 @@ main:
   - title: "CV"
     url: https://docs.google.com/document/d/1fiZrI3T0KrqDe-NQXTi-1v57yJ5Y_HEmLB3cmQbtmLk/edit
     
-  - title: "Guide"
-    url: /markdown/
+  # - title: "Guide"
+  #   url: /markdown/
