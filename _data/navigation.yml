@@ -3,8 +3,8 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Projects"
-    url: /projects/    
+  # - title: "Projects"
+  #   url: /projects/    
   # - title: "Talks"
   #   url: /talks/    
 
@@ -14,11 +14,11 @@ main:
   - title: "Portfolio"
     url: /portfolio/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  # - title: "Blog Posts"
+  #   url: /year-archive/
     
   - title: "CV"
-    url: /cv/
+    url: https://docs.google.com/document/d/1fiZrI3T0KrqDe-NQXTi-1v57yJ5Y_HEmLB3cmQbtmLk/edit
     
   - title: "Guide"
     url: /markdown/
